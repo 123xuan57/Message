@@ -14,7 +14,7 @@ Message Board
 ## 安装使用
 
 1. 解压文件到你的服务器根目录下
-2. 更改服务器根目录为程序的public/目录下，例如根目录设为：http://localhost/www/Message/public/
+2. 更改服务器根目录为程序的public/目录下，例如根目录设为：'http://localhost/www/Message/public/'
 3. 在.env更改数据库连接配置参数为你本地的参数
 			DB_HOST=localhost
 			DB_DATABASE=message
