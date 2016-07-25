@@ -27,5 +27,3 @@ Message Board
 
 地址栏输入localhost直接运行
 
-
-## Documentation
